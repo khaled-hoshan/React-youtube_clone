@@ -2,7 +2,6 @@ import React from 'react';
 import { Stack } from '@mui/material';
 import { Link } from 'react-router-dom';
 import { logo } from '../utils/constants';
-import { Search } from '@mui/icons-material';
 import SearchBar from './SearchBar';
 
 const NavBar = () => (
